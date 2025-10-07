@@ -1,3 +1,2 @@
-# sum-of-sales
-
-Generated application for sum-of-sales
+bash
+    git clone https://github.com/23f2005217/sum-of-sales.git
